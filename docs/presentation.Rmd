@@ -1,0 +1,22 @@
+---
+title: "Why R with PostgreSQL"
+subtitle: "Calling PostgreSQL from R and vice-versa"
+author: "José de Jesus Filho"
+institute: "Consudata"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+
